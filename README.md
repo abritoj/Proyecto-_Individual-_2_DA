@@ -43,19 +43,23 @@ A partir de 2020, la cantidad de vuelos bajó de una manera dramática debido a 
 <h1 align='center'>
  <b>Tecnologias Usadas</b>
 </h1>
-Python
-Pandas
-Numpy
-Seaborn
+Python,
+Pandas,
+Numpy,
+Seaborn,
 matplotlib
-Power Bi
-Google Drive
+Power Bi,
+Google Drive,
 
 <h1 align='center'>
  <b>Autor</b>
 </h1>
 JOSE BRITO MORENO. 
 
+<div align="center">
+  
+<img src="https://github.com/abritoj/Proyecto-_Individual-_2_DA/blob/master/gracias-por-su-atención.gif" width="200" height="250">
 
+</div>
 
 
