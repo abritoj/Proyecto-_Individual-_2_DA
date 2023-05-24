@@ -54,5 +54,5 @@ Google Drive
  <b>Autor</b>
 </h1>
 JOSE BRITO MORENO
-![Texto alternativo](https://tenor.com/es-419/view/gracias-por-su-atención-gif-26313656)
+![Texto alternativo]([https://tenor.com/es-419/view/gracias-por-su-atención-gif-26313656](https://github.com/abritoj/Proyecto-_Individual-_2_DA/blob/master/gracias-por-su-atención.gif))
 
