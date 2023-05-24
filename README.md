@@ -3,6 +3,6 @@
 <p>
 
 <h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº2</b>
+ <b>PROYECTO 2 ACCIDENTES AEREOS Nº2</b>
 </h1>
  
