@@ -15,7 +15,8 @@ Este es el segundo proyecto individual para Henry. En esta ocasión, utilicé un
  <b>Producción</b>
 </h1>
 
-Los pasos a seguir durante el proyecto fueron: primero, el análisis de los datos; luego, el EDA; después, la creación de los KPIs; y por último, un panel interactivo utilizando Power BI
+Los pasos a seguir durante el proyecto fueron: primero, el análisis de los datos; luego, el EDA; después, la creación de los KPIs; y por último, un panel interactivo utilizando Power BI.
+</h1>
 Puedes descargar el dashboard en el siguiente link:https://drive.google.com/file/d/1GiW24z_3soboV4kPxkRHg8_Y7fst0zyk/view?usp=sharing
 <h1 align='center'>
  <b>KPIs</b>
