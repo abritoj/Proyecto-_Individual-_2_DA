@@ -53,5 +53,6 @@ Google Drive
 <h1 align='center'>
  <b>Autor</b>
 </h1>
-img src ="gracias-por-su-atención.gif">
+<p align='center'>
+<img src ="[gracias-por-su-atención.gi](https://github.com/abritoj/Proyecto-_Individual-_2_DA/blob/master/gracias-por-su-atención.gif)f">
 
