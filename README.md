@@ -54,8 +54,7 @@ Google Drive
 <h1 align='center'>
  <b>Autor</b>
 </h1>
-JOSE BRITO MORENO. </h1>
-![gracias-por-su-atención](https://github.com/abritoj/Proyecto-_Individual-_2_DA/assets/121964607/a1d7027f-d5a5-4b9d-81fb-624054d8f9b2)
+JOSE BRITO MORENO. 
 
 
 
