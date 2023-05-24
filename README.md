@@ -54,4 +54,4 @@ Google Drive
  <b>Autor</b>
 </h1>
 JOSE BRITO MORENO
-![Muchas Gracias]([https://mi-sitio-web.com/imagenes/gato-jugando.gi](https://tenor.com/es-419/view/gracias-por-su-atención-gif-26313656)f)
+![Muchas Gracias]((https://tenor.com/es-419/view/gracias-por-su-atención-gif-26313656))
