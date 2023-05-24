@@ -9,4 +9,4 @@
 <h1 align='center'>
  <b> Introduccion </b>
  </h1>
-##Este es el segundo proyecto individual para Henry. En esta ocasión, utilicé un conjunto de datos de accidentes aéreos que se analizaron con el fin de encontrar patrones y tendencias. El objetivo era analizar los datos para mejorar la seguridad aérea y crear KPIs funcionales y adecuados para esta base de datos
+## A Este es el segundo proyecto individual para Henry. En esta ocasión, utilicé un conjunto de datos de accidentes aéreos que se analizaron con el fin de encontrar patrones y tendencias. El objetivo era analizar los datos para mejorar la seguridad aérea y crear KPIs funcionales y adecuados para esta base de datos
