@@ -16,7 +16,7 @@ Este es el segundo proyecto individual para Henry. En esta ocasión, utilicé un
 </h1>
 
 Los pasos a seguir durante el proyecto fueron: primero, el análisis de los datos; luego, el EDA; después, la creación de los KPIs; y por último, un panel interactivo utilizando Power BI
-
+Puedes descargar el dashboard en el siguiente link:https://drive.google.com/file/d/1GiW24z_3soboV4kPxkRHg8_Y7fst0zyk/view?usp=sharing
 <h1 align='center'>
  <b>KPIs</b>
 </h1>
@@ -53,6 +53,6 @@ Google Drive
 <h1 align='center'>
  <b>Autor</b>
 </h1>
-<p align='center'>
-<img src ="[gracias-por-su-atención.gi](https://github.com/abritoj/Proyecto-_Individual-_2_DA/blob/master/gracias-por-su-atención.gif)f">
+JOSE BRITO MORENO. 
+
 
