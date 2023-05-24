@@ -21,13 +21,13 @@ Los pasos a seguir durante el proyecto fueron: primero, el análisis de los dato
  <b>KPIs</b>
 </h1>
 El primer KPI fue el número sugerido de fallecidos / número de personas a bordo. Este tenía el objetivo de reducir la mortalidad en un 5%.
-</div>
+</h1>
 El segundo fue la tasa de supervivencia, que se basaba en el número de supervivientes / personas a bordo. Este es un KPI de apoyo para el primero, y el objetivo era reducir la mortalidad hasta el 10%.
-</div>
+</h1>
 Este KPI era el número de muertes por operador. Para ello, se crearon las columnas accidentes de operador y vuelos de operador y se dividieron entre ellos respectivamente. El objetivo era encontrar la causa de los accidentes de operadores con una gran tasa de muertes y reducirlas al menos en un 5%.
-</div>
+</h1>
 El último fue el KPI de muertes por ruta, que se basaba en accidentes por ruta / vuelos por ruta. El objetivo era reducir la tasa de accidentes en las rutas con más mortalidad.
-</div>
+</h1>
 Cabe aclarar que estos fueron aplicados en una temporalidad de años.
 <h1 align='center'>
  <b>Conclusiones</b>
