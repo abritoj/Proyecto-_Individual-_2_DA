@@ -3,11 +3,11 @@
 <p>
 
 <h1 align='center'>
- <b>Poyecto individual 2</b>
+ <b>Proyecto individual 2</b>
 </h1>
  
 <h1 align='center'>
- <b>introduccion</b>
+ <b>Introducción</b>
 </h1>
 Este es el segundo proyecto individual para Henry. En esta ocasión, utilicé un conjunto de datos de accidentes aéreos que se analizaron con el fin de encontrar patrones y tendencias. El objetivo era analizar los datos para mejorar la seguridad aérea y crear KPIs funcionales y adecuados para esta base de datos
 
@@ -61,5 +61,7 @@ JOSE BRITO MORENO.
 
 </div>
 Puedes descargar el dashboard en el siguiente link:https://drive.google.com/file/d/1GiW24z_3soboV4kPxkRHg8_Y7fst0zyk/view?usp=sharing
+Puedes contactarme en:www.linkedin.com/in/josebritomoreno
+
 
 
